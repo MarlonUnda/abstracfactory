@@ -1,0 +1,12 @@
+com\mycompany\patronabstractfactory\FiguraFactory.class
+com\mycompany\patronabstractfactory\Trapecio.class
+com\mycompany\patronabstractfactory\Amarillo.class
+com\mycompany\patronabstractfactory\Figura.class
+com\mycompany\patronabstractfactory\PatronAbstractFactory.class
+com\mycompany\patronabstractfactory\Circulo.class
+com\mycompany\patronabstractfactory\Color.class
+com\mycompany\patronabstractfactory\ColorFactory.class
+com\mycompany\patronabstractfactory\Triangulo.class
+com\mycompany\patronabstractfactory\Azul.class
+com\mycompany\patronabstractfactory\Rojo.class
+com\mycompany\patronabstractfactory\AbstractFactory.class
